@@ -32,7 +32,7 @@ Create a file `convert.js` with the following content:
 const asciidoctor = require('asciidoctor')();
 const registry = asciidoctor.Extensions.create();
 
-require('./extension.js')(registry);
+require('@deepsymmetry/asciidoctor-bytefield')(registry);
 
 const html = asciidoctor.convertFile('sample.adoc', {
   to_file: false,
