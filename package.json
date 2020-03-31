@@ -1,0 +1,32 @@
+{
+  "name": "@deepsymmetry/asciidoctor-bytefield",
+  "version": "1.0.0",
+  "description": "Asciidoctor.js extension to render byte field diagrams as SVG",
+  "main": "extension.js",
+  "scripts": {
+    "test": "node test.js >test.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deep-Symmetry/asciidoctor-bytefield.git"
+  },
+  "keywords": [
+    "diagram-generator",
+    "clojure",
+    "byte",
+    "svg",
+    "asciidoctor"
+  ],
+  "author": "James Elliott",
+  "license": "EPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Deep-Symmetry/asciidoctor-bytefield/issues"
+  },
+  "homepage": "https://github.com/Deep-Symmetry/asciidoctor-bytefield#readme",
+  "dependencies": {
+    "bytefield-svg": "^1.3.0"
+  },
+  "devDependencies": {
+    "asciidoctor": "^2.1.1"
+  }
+}

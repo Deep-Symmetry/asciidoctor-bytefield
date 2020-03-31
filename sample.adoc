@@ -1,0 +1,14 @@
+# Some Document
+
+Here is a paragraph.
+
+.A byte field
+[bytefield]
+----
+(draw-column-headers)
+(draw-box 42)
+(draw-gap "Whee!")
+(draw-bottom)
+----
+
+And some more text.
