@@ -24,9 +24,9 @@
   },
   "homepage": "https://github.com/Deep-Symmetry/asciidoctor-bytefield#readme",
   "dependencies": {
-    "bytefield-svg": "^1.4.3"
+    "bytefield-svg": "^1.5.0"
   },
   "devDependencies": {
-    "asciidoctor": "^2.1.1"
+    "asciidoctor": "^2.2.0"
   }
 }
