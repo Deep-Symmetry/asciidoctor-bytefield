@@ -1,6 +1,6 @@
 {
   "name": "@deepsymmetry/asciidoctor-bytefield",
-  "version": "1.10.0",
+  "version": "1.11.0",
   "description": "Asciidoctor.js extension to render byte field diagrams as SVG",
   "main": "extension.js",
   "scripts": {
@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/Deep-Symmetry/asciidoctor-bytefield#readme",
   "dependencies": {
-    "bytefield-svg": "^1.10.0"
+    "bytefield-svg": "^1.11.0"
   },
   "devDependencies": {
     "asciidoctor": "^3.0.4"
